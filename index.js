@@ -14,3 +14,13 @@ function myFunction(){
         c.style.display = "block"; 
       }
 }
+
+function myFunction() {
+  alert("you do not have any balance");
+}
+function myFunction1() {
+  alert("you do not have any balance");
+}
+function myFunction2() {
+  alert("you do not have any balance");
+}
